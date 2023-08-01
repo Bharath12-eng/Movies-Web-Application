@@ -1,0 +1,7 @@
+/node_modules
+/.env
+/package-lock.json
+/package-lock.json
+/movies/node_modules
+/movies/package-lock.json
+/movies/.env
