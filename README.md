@@ -1,6 +1,9 @@
 # Movies-Web-Application
 
-This is a Movies Booking App that allows users to login, book movie tickets with seat numbers, and enables the admin to add movies to the website
+This is a Movies Booking App that allows users to login, book movie tickets with seat numbers, and enables the admin to add movies to the website.
+
+#Frontend
+In this Project the Client Folder or the Frontend Part is there inside movies.
 
 
 ## Features
